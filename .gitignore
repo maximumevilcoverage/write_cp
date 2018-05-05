@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!gentable.py 
+!markdown2.py  
+!md2.sh  
+!README.md  
+!styles.css  
+!tablefilter.js  
+!test.md
+# etc...
+
+# ...even if they are in subdirectories
+!*/
